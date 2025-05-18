@@ -11,7 +11,7 @@ Delete expenses dynamically.
 
 📸 Demo
 Live Site
-([Replace with your actual GitHub Pages link](https://sagarkumar1824.github.io/Expense-Tracker/
+([Live Link ](https://sagarkumar1824.github.io/Expense-Tracker/
 ))
 
 🚀 Features
